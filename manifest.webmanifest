@@ -1,0 +1,16 @@
+{
+  "name": "HirePulse HK 職脈直聘",
+  "short_name": "HirePulse HK",
+  "description": "香港求職與獵頭直聘平台 — 直接同老闆及金牌獵頭傾",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='44' fill='%234F46E5'/%3E%3Cpath d='M52 96h24l16-36 22 72 16-36h20' stroke='%23FFFFFF' stroke-width='14' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3Ccircle cx='144' cy='52' r='14' fill='%23F97316'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
