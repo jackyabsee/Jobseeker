@@ -2,8 +2,8 @@
 
 A Hong Kong bilingual (`繁體中文 / English`) job-finding and executive headhunting platform demo featuring **both a Desktop Website version and an interactive Mobile App version** sharing synchronized live state.
 
-- **Live Demo (GitHub Pages):** https://jackyabsee.github.io/hirepulse-hk-demo/
-- **Repository:** https://github.com/jackyabsee/hirepulse-hk-demo
+- **Live Demo (GitHub Pages):** https://jackyabsee.github.io/Jobseeker/
+- **Repository:** https://github.com/jackyabsee/Jobseeker
 
 ## Key Features
 - **3 Presentation Modes:** Switch seamlessly between **Website (`🌐 網站版`)**, **Mobile App (`📱 手機 App 版` iPhone 16 Pro / Android / Fullscreen)**, and **Web + App Split Sync (`⚡ 雙屏同步演示`)**.
